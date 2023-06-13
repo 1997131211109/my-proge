@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="394f8756-3889-4245-a92c-8a6d7d90638e" name="Changes" comment="first second part. tre work in base">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/sidebar.html" afterDir="false" />
-    </list>
+    <list default="true" id="394f8756-3889-4245-a92c-8a6d7d90638e" name="Changes" comment=" second part. tre work in base" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686596508931</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" second part. tre work in base">
+      <created>1686598719562</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686598719562</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +129,7 @@
     <MESSAGE value="start progect Work. Admin panel + post visual" />
     <MESSAGE value="first pat done . its work" />
     <MESSAGE value="first second part. tre work in base" />
-    <option name="LAST_COMMIT_MESSAGE" value="first second part. tre work in base" />
+    <MESSAGE value=" second part. tre work in base" />
+    <option name="LAST_COMMIT_MESSAGE" value=" second part. tre work in base" />
   </component>
 </project>
