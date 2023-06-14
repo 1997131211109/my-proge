@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="394f8756-3889-4245-a92c-8a6d7d90638e" name="Changes" comment=" second part. tre work in base" />
+    <list default="true" id="394f8756-3889-4245-a92c-8a6d7d90638e" name="Changes" comment="3d . part  + registrrate+login" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -108,7 +108,28 @@
       <option name="project" value="LOCAL" />
       <updated>1686598719562</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="3d . part grad">
+      <created>1686650606871</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686650606871</updated>
+    </task>
+    <task id="LOCAL-00010" summary="3d . part  + registrrate">
+      <created>1686677082687</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686677082687</updated>
+    </task>
+    <task id="LOCAL-00011" summary="3d . part  + registrrate+login">
+      <created>1686678495202</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686678495202</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +151,9 @@
     <MESSAGE value="first pat done . its work" />
     <MESSAGE value="first second part. tre work in base" />
     <MESSAGE value=" second part. tre work in base" />
-    <option name="LAST_COMMIT_MESSAGE" value=" second part. tre work in base" />
+    <MESSAGE value="3d . part grad" />
+    <MESSAGE value="3d . part  + registrrate" />
+    <MESSAGE value="3d . part  + registrrate+login" />
+    <option name="LAST_COMMIT_MESSAGE" value="3d . part  + registrrate+login" />
   </component>
 </project>
