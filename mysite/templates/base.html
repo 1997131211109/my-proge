@@ -70,6 +70,9 @@
                     <p>You are not logged in.</p>
                     <a href="{% url 'login' %}">Log In</a>
                 {% endif %}
+                {% if not user.is_authenticated %}
+                    <a class="btn btn-danger ml-2" href="{% url 'signup' %}">Sign Up</a>
+                {% endif %}
             </div>
         </header>
 
@@ -83,4 +86,3 @@
     </footer>
 </body>
 </html>
-
