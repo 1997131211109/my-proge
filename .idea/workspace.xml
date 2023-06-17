@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="394f8756-3889-4245-a92c-8a6d7d90638e" name="Changes" comment="3d . part  + registrrate+login" />
+    <list default="true" id="394f8756-3889-4245-a92c-8a6d7d90638e" name="Changes" comment="3d . part  + registrrate+login">
+      <change afterPath="$PROJECT_DIR$/mysite/user_accounts/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/user_accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/user_accounts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/user_accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/user_accounts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/user_accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/user_accounts/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
