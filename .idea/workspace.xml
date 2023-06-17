@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="394f8756-3889-4245-a92c-8a6d7d90638e" name="Changes" comment="3d . part  + registrrate+login" />
+    <list default="true" id="394f8756-3889-4245-a92c-8a6d7d90638e" name="Changes" comment="5d . part  + profile">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/user_accounts/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/user_accounts/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/user_accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/user_accounts/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686678495202</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="5d . part  + profile">
+      <created>1686991032548</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686991032548</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +165,7 @@
     <MESSAGE value="3d . part grad" />
     <MESSAGE value="3d . part  + registrrate" />
     <MESSAGE value="3d . part  + registrrate+login" />
-    <option name="LAST_COMMIT_MESSAGE" value="3d . part  + registrrate+login" />
+    <MESSAGE value="5d . part  + profile" />
+    <option name="LAST_COMMIT_MESSAGE" value="5d . part  + profile" />
   </component>
 </project>
