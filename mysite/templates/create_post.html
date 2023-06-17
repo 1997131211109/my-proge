@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<style>
+    .container {
+        margin-top: 50px;
+    }
+    .post-title {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    .post-content {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .post-info {
+        font-size: 14px;
+        color: #888;
+    }
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+</style>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      <h1 class="post-title">Create Post</h1>
+      <form method="post" class="mt-4">
+        {% csrf_token %}
+        <div class="form-group">
+          <input type="text" class="form-control post-title" id="{{ form.title.id_for_label }}" name="{{ form.title.html_name }}" placeholder="Title">
+        </div>
+        <div class="form-group">
+          <textarea class="form-control post-content" id="{{ form.content.id_for_label }}" name="{{ form.content.html_name }}" placeholder="Content" rows="6"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+      </form>
+    </div>
+  </div>
+</div>
+{% endblock %}
