@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="394f8756-3889-4245-a92c-8a6d7d90638e" name="Changes" comment="5d . part  + profile (base)">
-      <change afterPath="$PROJECT_DIR$/mysite/tests/test_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/tests/test_mysite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/tests/tests_url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/tests/views_blog.py" afterDir="false" />
+    <list default="true" id="394f8756-3889-4245-a92c-8a6d7d90638e" name="Changes" comment="6 - unit test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/tests/test_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/tests/test_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/tests/test_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/tests/test_form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/tests/tests_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/tests/tests_url.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686991032548</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="6 - unit test">
+      <created>1687078386532</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687078386532</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,7 +174,8 @@
     <MESSAGE value="3d . part  + registrrate" />
     <MESSAGE value="3d . part  + registrrate+login" />
     <MESSAGE value="5d . part  + profile" />
-    <option name="LAST_COMMIT_MESSAGE" value="5d . part  + profile" />
+    <MESSAGE value="6 - unit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 - unit test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

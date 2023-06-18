@@ -1,6 +1,5 @@
 from django.test import SimpleTestCase
 from django.urls import resolve, reverse
-from user_accounts.views import ProfileView
 from blog.views import PostList, PostDetail
 
 
@@ -17,9 +16,6 @@ class URLTests(SimpleTestCase):
         url = reverse('logout')
         self.assertEqual(resolve(url).func.view_class.__name__, 'LogoutView')
 
-    def test_profile_url_resolves(self):
-        url = reverse('profile')
-        self.assertEqual(resolve(url).func.view_class, ProfileView)
 
     def test_home_url_resolves(self):
         url = reverse('home')

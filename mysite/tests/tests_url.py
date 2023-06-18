@@ -35,17 +35,5 @@ class CreatePostTest(TestCase):
         response = self.client.get(reverse('create_post'))
         self.assertEqual(response.status_code, 200)  # Перевірка успішного отримання сторінки створення поста
 
-    # Додайте інші тести для create_post, якщо потрібно
-
-
-class CreateCommentTest(TestCase):
-    def setUp(self):
-        self.client = Client()
-        self.user = User.objects.create_user(username='testuser', password='testpassword')
-
-
-
-    # Додайте інші тести для create_comment, якщо потрібно
-
 
 

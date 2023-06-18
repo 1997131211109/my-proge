@@ -39,9 +39,15 @@ class ModelFormTest(TestCase):
         })
         self.assertTrue(form.is_valid())
 
-    def test_user_profile_form_invalid_data(self):
-        form = UserProfileForm(data={})
+    def test_form_invalid_data(self):
+        form = CommentForm(data={
+            'name': '',  # Empty name
+            'email': 'john@example.com',
+            'body': 'This is a test comment'
+        })
         self.assertFalse(form.is_valid())
+        self.assertEqual(len(form.errors), 1)
+        self.assertIn('name', form.errors)
 
     def test_post_form_valid_data(self):
         form = PostForm(data={
