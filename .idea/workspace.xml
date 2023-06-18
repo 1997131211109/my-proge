@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="394f8756-3889-4245-a92c-8a6d7d90638e" name="Changes" comment="6 - unit test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/tests/test_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/tests/test_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/tests/test_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/tests/test_form.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/tests/tests_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/tests/tests_url.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687078386532</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="6 - unit test">
+      <created>1687081153032</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687081153032</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
